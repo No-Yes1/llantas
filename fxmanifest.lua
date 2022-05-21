@@ -1,9 +1,5 @@
-fx_version 'adamant'
+fx_version 'cerulean'
 game 'gta5'
-
-author 'Desconocido'
-description '¡Packs de llantas addon para FiveM!'
-version '3.0'
 
 files {
     'data/*.meta',
